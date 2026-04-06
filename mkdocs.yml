@@ -1,0 +1,24 @@
+site_name: Duy M. Dao's Portfolio
+theme:
+  name: material
+  custom_dir: overrides
+  palette:
+    scheme: default
+      
+
+
+nav:
+  - About me: index.md
+  - Cirriculum Vitae: cv.md
+  - My projects: project.md
+
+# Enable math equations (LaTeX)
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - stylesheets/extra.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css
