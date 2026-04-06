@@ -156,7 +156,9 @@ electronic calculations and the investigation of molecules and materials.
 
 ## Languages
 ---
-
-
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Vietnamese</strong>: Native speaker proficiency</span>
+  <span><strong>English</strong>: Professional working proficiency</span>
+</div>
 
 
