@@ -11,6 +11,7 @@ nav:
   - About me: index.md
   - Cirriculum Vitae: cv.md
   - My projects: project.md
+  - Miscellaneous: miscellaneous.md
 
 # Enable math equations (LaTeX)
 markdown_extensions:

@@ -21,6 +21,25 @@ Physical Chemistry I & II (undertaking), Colloidal Chemistry (undertaking).
 
 ## Research Experience 
 ---
+
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Research Center for Applied Science,<br>
+  Academia Sinica </strong></span>
+  <span>Remote and on-site in Taipei, Taiwan</span>
+</div>
+<div style="display: flex; justify-content: space-between;">
+  <span><em>Intern Researcher</em></span>
+  <span>March 2026 - Present</span>
+</div>
+
+Supervisor: Dr. Chao-Cheng Kuan
+
+- Utilized Density Functional Theory (DFT) to model the Ammonia Oxidation Reaction (AOR) on transition metal-doped Nickel Oxide (NiO) surfaces, with the objective of designing more efficient catalysts for direct ammonia fuel cells.
+
+- Analyzed the effect of dopants (V, Cr, Fe, Mn) on the electronic structure of NiO, correlating modifications in $Ni$ $3d–O 2p$ hybridization with the energetic stabilization of the crucial $∗NH_2$ reaction intermediate.
+
+- Calculated and compared the free energy barriers for the potential-determining dehydrogenation step ($∗NH_3 \rightarrow *NH_2$) to screen and identify dopant candidates that accelerate the overall AOR kinetics.
+
 <div style="display: flex; justify-content: space-between;">
   <span><strong>Institute of Ion-beam Physics and Material Research,<br>
   Helmholtz-Zentrum Dresden-Rossendorf </strong></span>
@@ -40,7 +59,8 @@ Supervisor: Dr. Mahdi Ghorbani-Asl
 - Pioneered in utilizing Molecular Dynamics to investigate interface energetics of 2D lateral hetero-structure.
 
 <div style="display: flex; justify-content: space-between;">
-  <span><strong>HCMUT Laboratory of Computational Physics</strong></span>
+  <span><strong>HCMUT Laboratory of Computational Physics, <br>
+  Vietnam National University - Ho Chi Minh University of Technology</strong></span>
   <span>Ho Chi Minh city, Vietnam</span>
 </div>
 <div style="display: flex; justify-content: space-between;">

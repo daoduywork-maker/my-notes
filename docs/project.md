@@ -29,6 +29,10 @@ Beyond the equations, I want to incorporate visualization tools to bridge the ga
 
 --- 
 
-## Molecular dynamics studies of two-dimensional lateral heterostructures (On-going)
+## Molecular dynamics study of two-dimensional lateral heterostructures (On-going)
+
+---
+
+## Ab-initio study of phosphorus-doped two-dimensional silicon carbide (Completed)
 
 
